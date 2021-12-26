@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebappdir:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-26T13:06:14.970246606Z"
+    description: A Helm chart for Kubernetes
+    digest: 977f1e984c321751b72927005a2fad7c6831ac04cb8757916dd13001e1feeab2
+    name: javawebappdir
+    type: application
+    urls:
+    - https://dayanandjb.github.io/helmgitpage/javawebappdir-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-26T13:06:14.969325882Z"
